@@ -83,5 +83,3 @@ User log-in attempts, dates, timestamps, and success status are recorded in the 
 Descriptive Javadoc comments are provided for at least 70 percent of the classes and their members throughout the code. An `index.html` file of the comments is included based on Oracle's guidelines for the Javadoc tool best practices. Each lambda expression is justified in the comments of the method where it is used.
 
 ---
-
-Feel free to include additional information or modify the structure based on your specific needs. Good luck with your GitHub upload!
